@@ -1,7 +1,7 @@
 ## Project Overview
 
 This repository contains code and experiments for the Kaggle competition **The Learning Agency Lab - PII Data Detection**.  
-The goal is to build models that automatically detect and classify **Personally Identifiable Information (PII)** entities—such as names, emails, phone numbers, addresses, user names, IDs, and URLs—in educational documents. The task is formulated as a token classification (NER) problem using modern transformer-based methods.
+The goal is to build models that automatically detect and classify **Personally Identifiable Information (PII)** entities-such as names, emails, phone numbers, addresses, user names, IDs, and URLs-in educational documents. The task is formulated as a token classification (NER) problem using modern transformer-based methods.
 
 ---
 
